@@ -1,0 +1,20 @@
+{
+  "name": "falloutnewvegasmods",
+  "version": "1.0.0",
+  "description": "A list of all the mods I use.",
+  "main": "server.js",
+  "repository": "https://github.com/valkyrienyanko/falloutnewvegasmods.git",
+  "author": "valkyrienyanko <sebastianbelle074@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "scripts": {
+    "dev:server": "nodemon -q ."
+  }
+}
