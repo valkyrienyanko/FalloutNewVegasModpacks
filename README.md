@@ -11,4 +11,4 @@ A website that shows what mods I play with.
 6. Open up `localhost:4000` in your browser.
 
 ## Contributing
-See [CONTRIBUTING.md]
+See [CONTRIBUTING.md](https://github.com/valkyrienyanko/falloutnewvegasmods/blob/master/CONTRIBUTORS.md)
