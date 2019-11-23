@@ -1,6 +1,6 @@
 # Valks Fallout New Vegas Modpack
 ## About
-A website that shows what mods I play with.
+A website that shows what mods I play with. Hosted on http://104.246.136.66:4000
 
 ## Setup
 1. Clone `https://github.com/valkyrienyanko/falloutnewvegasmods.git`
