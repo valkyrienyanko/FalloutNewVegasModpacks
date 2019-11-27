@@ -18,7 +18,17 @@ body::-webkit-scrollbar-thumb {
   outline: 1px solid slategrey;
 }
 
+@keyframes example {
+  50% {
+    color: pink;
+  }
+}
+
 a {
+	animation-name: example;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+	
 	transition-duration: 0.5s;
 	text-decoration: none;
 	color: white;
