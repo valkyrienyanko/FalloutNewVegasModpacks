@@ -1,6 +1,8 @@
 # Valks Fallout New Vegas Modpack
 ## About
-A website that shows what mods I play with. 
+A website that shows what mods I play with.
+
+View the latest deployments [here](https://github.com/valkyrienyanko/falloutnewvegasmods/deployments).
 
 ## Setup
 1. Clone `https://github.com/valkyrienyanko/falloutnewvegasmods.git`
