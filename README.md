@@ -4,6 +4,8 @@ A website that shows what mods I play with.
 
 View the latest deployments [here](https://github.com/valkyrienyanko/falloutnewvegasmods/deployments).
 
+![Preview](https://i.imgur.com/q7F2QVV.png)
+
 ## Local Setup
 1. Clone `https://github.com/valkyrienyanko/falloutnewvegasmods.git`
 2. Download and install `LTS` [Node.js](https://nodejs.org/en/).
