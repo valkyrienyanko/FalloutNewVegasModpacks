@@ -28,14 +28,17 @@ fetch(myRequest).then(function(response) {
     }
     
     if (summary != null) {
+      createElement('h3', 'Summary')
       createElement('p', summary)
     }
     
     if (description != null) {
+      createElement('h3', 'Description')
       createElement('p', description)
     }
     
     if (author != null) {
+      createElement('h3', 'Author')
       createElement('p', author)
     }
 })
