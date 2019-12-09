@@ -29,3 +29,5 @@ The purpose of creating your own modpack page is to allow others to see what kin
 ## Contributing
 
 Only read [CONTRIBUTING.md](https://github.com/valkyrienyanko/falloutnewvegasmods/blob/master/CONTRIBUTORS.md) if you are contributing to the websites server / client code.
+
+Send me a message over discord at **valk#3277** if you have any questions.
