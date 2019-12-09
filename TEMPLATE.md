@@ -1,4 +1,4 @@
-### Template for your modpack page.
+# Template for your Modpack Page
 
 1. Replace `<title>Valks Fallout Mods</title>` and `<h1>Valks Fallout New Vegas Modpack</h1>` with your own name.
 2. All mod IDs must be from the Nexus Site. Replace the `00000` in `mod(00000)` with the proper mod ID.
