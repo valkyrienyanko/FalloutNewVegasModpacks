@@ -26,7 +26,7 @@
 	<h2>Category 1</h2>
 	<ul>
 		<li><button onclick='mod(00000)'>Mod Name 1</button></li>
-    <li><button onclick='mod(00000)'>Mod Name 2</button></li>
+		<li><button onclick='mod(00000)'>Mod Name 2</button></li>
 	</ul>
 </body>
 
