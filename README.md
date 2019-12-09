@@ -1,6 +1,6 @@
-# Valks Fallout New Vegas Modpack
+# Fallout New Vegas Modpacks
 ## About
-A website that shows what mods I play with.
+A website that shows what modpacks people play with.
 
 View the latest deployments [here](https://github.com/valkyrienyanko/falloutnewvegasmods/deployments).
 
