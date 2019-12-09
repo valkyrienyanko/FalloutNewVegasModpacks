@@ -16,9 +16,9 @@ View the latest deployments [here](https://github.com/valkyrienyanko/falloutnewv
 7. Start server with `yarn dev:server`.
 8. Open up `localhost:4000` in your browser.
 
-## Contribute your Modpack
+## Contribute your Modpack Page
 
-Share your modpack with the everyone by creating your own page with the following [TEMPLATE.md](https://github.com/valkyrienyanko/falloutnewvegasmods/blob/master/TEMPLATE.md).
+Share the mods you play with by creating your own modpack page with the following [TEMPLATE.md](https://github.com/valkyrienyanko/falloutnewvegasmods/blob/master/TEMPLATE.md).
 
 ## Contributing
 
