@@ -19,7 +19,12 @@ View the latest deployments [here](https://github.com/valkyrienyanko/falloutnewv
 
 ## Contribute your Modpack Page
 
-Share the mods you play with by creating your own modpack page with the following [TEMPLATE.md](https://github.com/valkyrienyanko/falloutnewvegasmods/blob/master/TEMPLATE.md).
+The purpose of creating your own modpack page is to allow others to see what kind of mods you play with. Follow the steps below to get started.
+
+1. Clone `https://github.com/valkyrienyanko/falloutnewvegasmods.git`
+2. Create your own modpack page with the following [TEMPLATE.md](https://github.com/valkyrienyanko/falloutnewvegasmods/blob/master/TEMPLATE.md).
+3. Place the file in the root of the public directory when you are done.
+4. Create a pull request.
 
 ## Contributing
 
