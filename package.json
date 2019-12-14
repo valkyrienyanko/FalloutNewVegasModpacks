@@ -15,7 +15,6 @@
     "nodemon": "^2.0.1"
   },
   "scripts": {
-    "preinstall": "copy nul .env && echo APIKEY=>> .env && cls",
     "dev:server": "nodemon -q ."
   }
 }
