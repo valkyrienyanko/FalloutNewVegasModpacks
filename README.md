@@ -4,7 +4,7 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_FalloutNewVegasModpacks&metric=bugs)](https://sonarcloud.io/dashboard?id=valkyrienyanko_FalloutNewVegasModpacks)
 [![GitHub license](https://img.shields.io/github/license/valkyrienyanko/FalloutNewVegasModpacks?color=brightgreen)](https://github.com/valkyrienyanko/FalloutNewVegasModpacks/blob/master/LICENSE)
 [![Issues](https://img.shields.io/github/issues/valkyrienyanko/FalloutNewVegasModpacks)](https://github.com/valkyrienyanko/FalloutNewVegasModpacks/issues)
-[![Discord](https://img.shields.io/discord/453710350454620160.svg)](https://discordapp.com/invite/N9QVxbM)
+[![Discord](https://img.shields.io/discord/453710350454620160.svg)](https://discord.gg/thMupbv)
 [![GitHub stars](https://img.shields.io/github/stars/valkyrienyanko/FalloutNewVegasModpacks?color=brightgreen)](https://github.com/valkyrienyanko/FalloutNewVegasModpacks/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/valkyrienyanko/FalloutNewVegasModpacks?color=brightgreen)](https://github.com/valkyrienyanko/FalloutNewVegasModpacks/network)
 
