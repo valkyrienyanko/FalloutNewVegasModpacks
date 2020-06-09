@@ -1,22 +1,22 @@
-# Fallout New Vegas Modpacks
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_FalloutNewVegasModpacks&metric=alert_status)](https://sonarcloud.io/dashboard?id=valkyrienyanko_FalloutNewVegasModpacks)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_FalloutNewVegasModpacks&metric=ncloc)](https://sonarcloud.io/dashboard?id=valkyrienyanko_FalloutNewVegasModpacks)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_FalloutNewVegasModpacks&metric=bugs)](https://sonarcloud.io/dashboard?id=valkyrienyanko_FalloutNewVegasModpacks)
-[![GitHub license](https://img.shields.io/github/license/valkyrienyanko/FalloutNewVegasModpacks?color=brightgreen)](https://github.com/valkyrienyanko/FalloutNewVegasModpacks/blob/master/LICENSE)
-[![Issues](https://img.shields.io/github/issues/valkyrienyanko/FalloutNewVegasModpacks)](https://github.com/valkyrienyanko/FalloutNewVegasModpacks/issues)
-[![Discord](https://img.shields.io/discord/453710350454620160.svg)](https://discord.gg/thMupbv)
-[![GitHub stars](https://img.shields.io/github/stars/valkyrienyanko/FalloutNewVegasModpacks?color=brightgreen)](https://github.com/valkyrienyanko/FalloutNewVegasModpacks/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/valkyrienyanko/FalloutNewVegasModpacks?color=brightgreen)](https://github.com/valkyrienyanko/FalloutNewVegasModpacks/network)
+<div align="center">
+  
+  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_FalloutNewVegasModpacks&metric=alert_status)](https://sonarcloud.io/dashboard?id=valkyrienyanko_FalloutNewVegasModpacks)
+  [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_FalloutNewVegasModpacks&metric=ncloc)](https://sonarcloud.io/dashboard?id=valkyrienyanko_FalloutNewVegasModpacks)
+  [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_FalloutNewVegasModpacks&metric=bugs)](https://sonarcloud.io/dashboard?id=valkyrienyanko_FalloutNewVegasModpacks)
+  [![GitHub license](https://img.shields.io/github/license/valkyrienyanko/FalloutNewVegasModpacks?color=brightgreen)](https://github.com/valkyrienyanko/FalloutNewVegasModpacks/blob/master/LICENSE)
+  [![Discord](https://img.shields.io/discord/453710350454620160.svg)](https://discord.gg/thMupbv)
 
-## About
-A website that shows what modpacks people play with.
+</div>
 
-View the latest deployments [here](https://github.com/valkyrienyanko/falloutnewvegasmods/deployments).
+<p align="center">A website that shows what modpacks people play with.
+    <br>
+</p>
 
 ## Preview
 ![Preview](https://i.imgur.com/q7F2QVV.png)
 
 ## Local Setup
+View the latest deployments [here](https://github.com/valkyrienyanko/falloutnewvegasmods/deployments)
 1. Clone `https://github.com/valkyrienyanko/falloutnewvegasmods.git`
 2. Download and install `LTS` [Node.js](https://nodejs.org/en/)
 3. Make sure you have yarn installed `npm i -g yarn`
